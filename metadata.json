@@ -1,0 +1,8 @@
+{
+  "name": "Lumiere Living - Premium Furniture",
+  "description": "A luxury furniture landing page with a Gemini-powered design concierge and immersive animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
