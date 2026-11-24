@@ -51,5 +51,5 @@ Welcome to **Lumiere Living**, an exquisite, modern, and high-performance landin
 
 ---
 
-**Owner:** [khdxsohee](https://github.com/khdxsohee)  
+**Owner:** [farhan-swe](https://github.com/farhan-swe)  
 *Crafting digital experiences that feel as solid as solid oak.*
